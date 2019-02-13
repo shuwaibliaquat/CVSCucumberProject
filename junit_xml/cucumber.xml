@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="7" time="76.492027">
+<testcase classname="CVS Pharmacy Homepage Testing" name="verify homepage title" time="8.396797">
+<system-out><![CDATA[Given user verifies homepage title..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="CVS Pharmacy Homepage Testing" name="Verify pharmacy link from home page" time="9.15619">
+<system-out><![CDATA[Given clicked successfully on pharmacy link.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="CVS Pharmacy Homepage Testing" name="Verify minute clinic link from home page" time="12.034906">
+<system-out><![CDATA[Then clicked successfully on minute clinic link.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="CVS Pharmacy Homepage Testing" name="Verify shop link from home page" time="10.005297">
+<system-out><![CDATA[Given clicked successfully on shop link.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="CVS Pharmacy Homepage Testing" name="Verify extracare link from home page" time="9.384892">
+<system-out><![CDATA[Given clicked successfully on extracare link................................passed
+]]></system-out>
+</testcase>
+<testcase classname="CVS Pharmacy Homepage Testing" name="Verify contact lenses link from home page" time="10.393659">
+<system-out><![CDATA[Given clicked successfully on contact lenses................................passed
+]]></system-out>
+</testcase>
+<testcase classname="CVS Pharmacy Homepage Testing" name="Verify photo link from home page" time="17.120286">
+<system-out><![CDATA[Given clicked successfully on photo link....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
