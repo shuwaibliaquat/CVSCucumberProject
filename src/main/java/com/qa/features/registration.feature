@@ -16,11 +16,11 @@ Then close the registration browser
 
 Examples: 
 | firstName| lastName| emailAddress| password| confirmPassword|  name|streetAddress| city| State| zipCode| phoneNumber| Month| Day| Year|
-|John|Smith|johnsmitfh21dd5@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
-|Johy|Aryan|aryana2dd2ds@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|
-|John|Smith|johnssmith21dd5@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
-|Johy|Aryan|aryan2fdd2ds@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|
-|John|Smith|johnsmcith21dd5@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
-|Johy|Aryan|aryans2dd2ds@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|
-|John|Smith|johnshrmith21dd5@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
-|Johy|Aryan|aryanac2dd2ds@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|
+|Vichi|Leonard|sammy@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
+|Jose|Aan|bryan@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|
+|John|Smith|hendrik@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
+|Jony|islam|adnan@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|
+|Adiie|Adnan|safwan@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
+|Nishat|Aryan|peter@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|
+|Brayn|Smith|googly@korio.com|hhb12345|hhb12345| Krish|123 anywhere|Anycity| NJ|07035|1234569632|01|29|1985|
+|Ivvan|Iftekhar|ivaanbhai@korio.com|hhb12345|hhb12345|Momo|1666 anywhere|Anycity| MI|48212|1239856632|02|21|1995|

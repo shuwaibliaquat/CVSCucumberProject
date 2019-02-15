@@ -19,7 +19,7 @@ Then user close the browser
 Examples:
 | username| password|
 | abdurrahman@gmail.com| hhb12345| 
-| wrongemail@yahoo.com| wrongp@ssword| 
+| wrongemailadd@yahoo.com| wrongpwd@ssword| 
 
 Scenario: CVS signin test scenario using Gherkin language
 
