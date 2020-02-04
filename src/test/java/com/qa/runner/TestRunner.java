@@ -2,6 +2,7 @@ package com.qa.runner;
 
 import org.junit.runner.RunWith;
 import cucumber.api.junit.Cucumber;
+import cucumber.api.testng.AbstractTestNGCucumberTests;
 import cucumber.api.CucumberOptions;
 
 @RunWith(Cucumber.class)
@@ -22,6 +23,6 @@ import cucumber.api.CucumberOptions;
   
 
 
-public class TestRunner {
+public class TestRunner extends AbstractTestNGCucumberTests  {//AbstractTestNGCucumberTests-comes from testNGCucumber Dependency for TestNG.xml execution for maven test using jenkins or control panel
 
 }
